@@ -1,0 +1,20 @@
+| Alive Now | Neighbors | Alive Next |
+|---|---|---|
+| True | 0 | False |
+| True | 1 | False |
+| True | 2 | True |
+| True | 3 | True |
+| True | 4 | False |
+| True | 5 | False |
+| True | 6 | False |
+| True | 7 | False |
+| True | 8 | False |
+| False | 0 | False |
+| False | 1 | False |
+| False | 2 | False |
+| False | 3 | True |
+| False | 4 | False |
+| False | 5 | False |
+| False | 6 | False |
+| False | 7 | False |
+| False | 8 | False |
